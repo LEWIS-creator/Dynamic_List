@@ -23,7 +23,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/dynamic-list-manager.git
+   https://github.com/LEWIS-creator/Dynamic_List.git
    
 ### Author Information:
 - Created by: LEWIS MWILITSA. 
